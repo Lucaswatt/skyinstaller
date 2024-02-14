@@ -1,0 +1,43 @@
+{
+  "skyinstaller_version": "1.0.0",
+  "profile": "allMods",
+  "removeUnknownMods": false,
+  "mods": [
+    {
+      "name": "Cowlection",
+      "version": "0",
+      "git": "https://api.github.com/repos/cow-mc/Cowlection/releases/latest",
+      "file_name": "Cowlection-1.8.9-0.16.1.jar"
+    },
+    {
+      "name": "CrashPatch",
+      "version": "0",
+      "git": "https://api.github.com/repos/Polyfrost/CrashPatch/releases/latest",
+      "file_name": "CrashPatch-1.8.9-forge-2.0.0.jar"
+    },
+    {
+      "name": "Dungeon Rooms Mod",
+      "version": "0",
+      "git": "https://api.github.com/repos/Quantizr/DungeonRoomsMod/releases/latest",
+      "file_name": "Dungeon_Rooms-3.4.0.jar"
+    },
+    {
+      "name": "Skytils",
+      "version": "1.8.0",
+      "git": "https://api.github.com/repos/Skytils/SkytilsMod/releases/latest",
+      "file_name": "Skytils-1.8.0.jar"
+    },
+    {
+      "name": "NotEnoughUpdates",
+      "version": "2.1.0",
+      "git": "https://api.github.com/repos/Moulberry/NotEnoughUpdates/releases/latest",
+      "file_name": "NotEnoughUpdates-2.1.jar"
+    }
+  ],
+  "ignore": [
+    {
+      "name": "Optifine",
+      "file_name": "OptiFine_1.8.9_HD_U_M5.jar"
+    }
+  ]
+}
