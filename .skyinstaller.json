@@ -1,7 +1,7 @@
 {
   "skyinstaller_version": "1.0.0",
   "profile": "allMods",
-  "removeUnknownMods": false,
+  "removeUnknownMods": true,
   "mods": [
     {
       "name": "Cowlection",
@@ -23,19 +23,19 @@
     },
     {
       "name": "Hypixel Autocomplete",
-      "version": "0",
+      "version": "1.8.9-1.0",
       "git": "https://api.github.com/repos/Sk1erLLC/Hypixel-Autocomplete-Mod/releases/latest",
       "file_name": "Sk1er.Hypixel.Autocomplete.Mod-1.0.jar"
     },
     {
       "name": "Hytils Reborn",
-      "version": "0",
+      "version": "v1.6.1",
       "git": "https://api.github.com/repos/Polyfrost/Hytils-Reborn/releases/latest",
       "file_name": "Hytils-Reborn-1.8.9-forge-1.6.1.jar"
     },
     {
       "name": "Danker's Skyblock Mod",
-      "version": "0",
+      "version": "v2.2",
       "git": "https://api.github.com/repos/bowser0000/SkyblockMod/releases/latest",
       "file_name": "MC.1.8.9.Danker.s.Skyblock.Mod.-.2.2.jar"
     },
@@ -47,19 +47,19 @@
     },
     {
       "name": "OverflowAnimationsV2",
-      "version": "0",
+      "version": "v2.1.1",
       "git": "https://api.github.com/repos/Polyfrost/OverflowAnimationsV2/releases/latest",
       "file_name": "OverflowAnimations-1.8.9-forge-2.1.1.jar"
     },
     {
       "name": "SimpleToggleSprint",
-      "version": "0",
+      "version": "v2.2.0",
       "git": "https://api.github.com/repos/My-Name-Is-Jeff/SimpleToggleSprint/releases/latest",
       "file_name": "SimpleToggleSprint-2.2.0.jar"
     },
     {
       "name": "SkyblockAddons",
-      "version": "0",
+      "version": "v1.7.3",
       "git": "https://api.github.com/repos/BiscuitDevelopment/SkyblockAddons/releases/latest",
       "file_name": "SkyblockAddons-1.7.3+7380-for-MC-1.8.9.jar"
     },

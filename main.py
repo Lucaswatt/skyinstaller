@@ -96,8 +96,10 @@ for mod in mods:
 print("\n\nDeleting mods:")
 for mod in delete_queue:
     print(mod)
+    os.remove(os.path.join("mods", mod))
 
 print("\nDownloading mods:")
 for mod in download_queue:
     print(mod["info"]["file"])
+    download_mod(mod["info"]["download"], mod["info"]["file"])
     update_metadata(mod["old_metadata"], mod["info"])
